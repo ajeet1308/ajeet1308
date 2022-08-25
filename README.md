@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ajeetj1308@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1337R4jEQN1Oj4OKseFA2pK4viTJ-3aAP/view](https://drive.google.com/file/d/1Yp8y1QTePcstfZsafJMgeYDnxsAriKvT/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1337R4jEQN1Oj4OKseFA2pK4viTJ-3aAP/view](https://drive.google.com/file/d/1337R4jEQN1Oj4OKseFA2pK4viTJ-3aAP/view)
 
 - ⚡ Fun fact **"Stack Overflow" is the god of Developers**
 
