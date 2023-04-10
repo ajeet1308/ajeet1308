@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeet1308&label=Profile%20views&color=0e75b6&style=flat" alt="ajeet1308" /> </p>
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working as **Full stack Developer**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://ajeet1308.github.io/ajeetkumarjaiswal.github.io/](https://ajeet1308.github.io/ajeetkumarjaiswal.github.io/)
 
-- 💬 Ask me about **PHP/JavaScript and C++**
+- 💬 Ask me about **Python/JavaScript and C++**
 
 - 📫 How to reach me **ajeetj1308@gmail.com**
 
